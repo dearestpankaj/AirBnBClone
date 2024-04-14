@@ -6,4 +6,5 @@ AirBnB clone App
 
 
 
-![Uploading Simulator Screenshot - iPhone 15 Pro - 2024-04-14 at 15.33.37.png…]()
+
+![Simulator Screenshot - iPhone 15 Pro - 2024-04-14 at 15 33 37](https://github.com/dearestpankaj/AirBnBClone/assets/987922/083f314d-029b-4ba0-a10f-a64ef3028dab)
