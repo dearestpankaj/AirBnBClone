@@ -5,3 +5,15 @@ AirBnB clone App with SwiftUI
 <img src="https://github.com/dearestpankaj/AirBnBClone/assets/987922/c4680622-8a13-43fe-90df-dc455af46862" width="200">
 
 
+Tasks:
+1. Explore    
+   1.1 Search    
+   1.2 Listing UI    
+   1.3 Housing Tabs    
+   1.4 Listing Details    
+   1.5 Reserve        
+             1.5.1 Reserve UI    
+3. Wishlist
+4. Trips
+5. Inbox
+6. Login/Profile
