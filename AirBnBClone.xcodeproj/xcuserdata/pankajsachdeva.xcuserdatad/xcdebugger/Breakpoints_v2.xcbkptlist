@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3F7B4420-DCA6-4884-A27C-EAC3D775641F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E7B856F9-5E33-4A00-ADDD-91B1F42A3C66"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AirBnBClone/Core/Explore/ViewModel/ExploreViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "filterListingsWithHousings()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E7B856F9-5E33-4A00-ADDD-91B1F42A3C66 - 7aa966018a2f85aa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AirBnBClone.ExploreViewModel.filterListingsWithHousings() -&gt; ()"
+                  moduleName = "AirBnBClone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pankajsachdeva/Desktop/HD/work/Practice/AirBnBClone/AirBnBClone/Core/Explore/ViewModel/ExploreViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "E7B856F9-5E33-4A00-ADDD-91B1F42A3C66 - 7aa966018a2f85aa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AirBnBClone.ExploreViewModel.filterListingsWithHousings() -&gt; ()"
+                  moduleName = "AirBnBClone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pankajsachdeva/Desktop/HD/work/Practice/AirBnBClone/AirBnBClone/Core/Explore/ViewModel/ExploreViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "136">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "98E0899A-DECF-40B1-81DA-3A4A3AC38FD1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AirBnBClone/Core/Explore/ViewModel/ExploreViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "filterListingsWithHousings()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
