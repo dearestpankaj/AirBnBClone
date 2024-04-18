@@ -16,6 +16,12 @@ struct MainTabView: View {
             WishListView()
                 .tabItem { Label("Wishlists", systemImage: "heart") }
             
+            TripsView()
+                .tabItem { Label("Trips", systemImage: "person") }
+            
+            InboxView()
+                .tabItem { Label("Inbox", systemImage: "person") }
+            
             ProfileView()
                 .tabItem { Label("Profile", systemImage: "person") }
         }
