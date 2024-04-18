@@ -9,7 +9,20 @@ import SwiftUI
 
 struct InboxView: View {
     var body: some View {
-        Text("Hello, World!")
+        VStack {
+            GeometryReader() { proxy in
+                Text("Hello, World!")
+                    .frame(width: proxy.size.width * 0.9, height: 40)
+                    .background(.red)
+            }
+            .background(.green)
+            Text("More text")
+                .background(.blue)
+            Text("More text")
+                .background(.pink)
+            Text("More text")
+                .background(.yellow)
+        }
     }
 }
 
